@@ -22,7 +22,7 @@ To run RAVEN the following requirements are necessary.
 •	Stable internet connection
 
 ### INSTALLATION
-Download our current RAVEN release for your operating system (Windows/MacOS/Linux). Unpack this .zip file and navigate into the unpacked directory. Start RAVEN with double click on the unpacked RAVEN_vX.X.X file.
+Download our current RAVEN release for your operating system (Windows/MacOS/Linux) . You can find it via the release tab in the menu bar above. Unpack your downloaded .zip file and navigate into the unpacked directory. Start RAVEN with double click on the unpacked vX.X.X_RAVEN.exe file.
 
 ### LOGIN 
 RAVEN is free for academic use only. Please contact thomas.gruenewald@med.uni-muenchen.de to receive your login password.
