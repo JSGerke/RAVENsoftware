@@ -16,7 +16,7 @@ RAVEN is a user friendly application mainly designed to support scientist with l
 To run RAVEN the following requirements are necessary. 
 
 •	Operating system: 64-bit version
-•	At least: 8GB RAM (optimal: 32 GB)
+•	At least: 16 GB RAM (optimal: 32 GB)
 •	Java 8 (64-bit)
 •	At least: 1440x900p screen size
 •	Stable internet connection
