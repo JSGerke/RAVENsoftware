@@ -28,7 +28,7 @@ Download our current RAVEN release for your operating system (Windows/MacOS/Linu
 RAVEN is free for academic use only. Please contact thomas.gruenewald@med.uni-muenchen.de to receive your login password.
 
 ### AVAILABLE DATASETS
-We additionally, provide two normalized microarray datasets which are suitable to use with RAVEN. They are published with our latest RAVEN release. The datasets cover gene expression values of normal tissues, pediatric sarcomas and most common cancers.
+We additionally, provide two normalized microarray datasets which are suitable to use with RAVEN. They are published with our latest RAVEN release. The datasets cover gene expression values of normal tissues, pediatric sarcomas and most common cancers. You can find a list summarizing all tumors and normal tissues in the coresponding README.txt attached to your downloaded .zip file.
 
 ### CITATION
 When using RAVEN for your research, please acknowledge our work supporting your research by citing our corresponding paper.
