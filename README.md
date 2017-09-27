@@ -1,6 +1,5 @@
 # RAVEN
 
-#### **** version for Mac and Linux will be available soon ****
 
 RAVEN offers you several statistical approaches and a bioinformatic pipeline to analyze your gene expression data. (Systematic identification of cancer specific MHC-binding peptides with RAVEN. Baldauf and Gerke et al.)
 
