@@ -1,7 +1,7 @@
 # RAVEN
 
 
-+++++++ Please read the manual first which you can download directly above! +++++++++
+#### +++++++ Please read the manual for detailed information which you can download directly above! +++++++++
 
 
 RAVEN offers you several statistical approaches and a bioinformatic pipeline to analyze your gene expression data. (Systematic identification of cancer specific MHC-binding peptides with RAVEN. Baldauf and Gerke et al.)
