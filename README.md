@@ -24,7 +24,7 @@ To run RAVEN the following requirements are necessary.
 •	Stable internet connection
 
 ### INSTALLATION
-**Download our current RAVEN release** for your operating system (Windows/MacOS/Linux) . You can find it via the release tab in the menu bar above or via the link below. Unpack your downloaded .zip file and navigate into the unpacked directory. Start RAVEN with double click on the unpacked vX.X.X_RAVEN.exe file.
+**Download our current RAVEN release** for your operating system (Windows/MacOS/Linux) . You can find it above this README or via the link below. Unpack your downloaded .zip file and navigate into the unpacked directory. Start RAVEN with double click on the unpacked vX.X.X_RAVEN.exe file. Keep all unpacked files in the same directory!
 
 https://github.com/JSGerke/RAVENsoftware/releases
 
@@ -32,7 +32,8 @@ https://github.com/JSGerke/RAVENsoftware/releases
 RAVEN is free for academic use only. Please contact thomas.gruenewald@med.uni-muenchen.de to receive your login password.
 
 ### AVAILABLE DATASETS
-We additionally, provide two normalized microarray datasets which are suitable to use with RAVEN. They are published with our latest RAVEN release. The datasets cover gene expression values of normal tissues, pediatric sarcomas and most common cancers. You can find a list summarizing all tumors and normal tissues in the coresponding README.txt attached to your downloaded .zip file.
+We additionally, provide two normalized microarray datasets which are suitable to use with RAVEN. They are published with our RAVEN release. The datasets cover gene expression values of normal tissues, pediatric sarcomas and most common cancers. You can find a list summarizing all tumors and normal tissues in the coresponding README.txt attached to your downloaded .zip file.
+**Download the datasets here:** https://github.com/JSGerke/RAVENsoftware/releases
 
 ### CITATION
 When using RAVEN for your research, please acknowledge our work supporting your research by citing our corresponding paper.
